@@ -4,3 +4,7 @@ cat
 don
 egg
 
+
+
+kubeadm join 192.168.211.52:6443 --token j8kpht.9lxdy8l8mdip4eb1 --discovery-token-ca-cert-hash sha256:8157d91c4d43981ed326e8325963f24f310fdeb5c1e2a3c6ca209829bc886a16 
+
